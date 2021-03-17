@@ -14,4 +14,4 @@ function maxSubarraySum(arr, num) {
   return maxSum
 }
 
-console.log(maxSubarraySum([2, 3, 5, 2, 4, 6, 7, 4, 2, 4, 6, 2, 3, 1, 2, 4, 5], 4))
+console.log(maxSubarraySum([2, 3, 5, 2, 4, 6, 7, 4, 2, 2, 3, 1, 2, 4, 5], 4))
